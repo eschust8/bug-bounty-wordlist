@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@orwagodfather 
-climbingMaster
-/
-DIR-WORDLISTS
-Public
-forked from emadshanab/DIR-WORDLISTS
-0
-06
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-DIR-WORDLISTS/aem-paths.txt
-@emadshanab
-emadshanab Add files via upload
-Latest commit 0c35f40 on Jul 30
- History
- 1 contributor
-545 lines (544 sloc)  34.4 KB
-   
-
-/
 /{0}.1.json
 /.1.json
 /.1.xml
@@ -572,15 +541,3 @@ CRXDE Lite/CRX
 /welcome
 /workspace
 /.xml
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
